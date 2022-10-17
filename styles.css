@@ -19,7 +19,7 @@ article p:first-child {letter-spacing: 5px;}
 
 .container {
     margin: 35px auto;
-    width: max(70%, 300px);
+    width: max(70%, 350px);
     overflow: hidden;
     border-radius: 13px;
     background: hsl(0, 0%, 100%);
